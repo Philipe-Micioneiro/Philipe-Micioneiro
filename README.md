@@ -17,6 +17,7 @@ Matemático de formação, analista de dados por ofício. Trabalho com **SQL, Po
 
 - 🏢 **Atuação:** PepsiCo · AMBEV (AB InBev) · Bradesco · Scirontech
 - 🤖 **IA e automação:** n8n, MCP (Model Context Protocol), Claude, sistemas multiagente com LangChain e FastAPI
+- 🎓 **Formação:** Pós-graduação em Data Science e Analytics (FIAP) · Bacharelado em Matemática (UNINOVE)
 - 🗣️ **Idiomas:** português (nativo) · **inglês fluente**, com apresentações de resultados em inglês
 
 ## 🇺🇸 About
@@ -25,6 +26,7 @@ Mathematician by training, data analyst by trade. I use **SQL, Power BI and Pyth
 
 - 🏢 **Worked with:** PepsiCo · AMBEV (AB InBev) · Bradesco · Scirontech
 - 🤖 **AI and automation:** n8n, MCP (Model Context Protocol), Claude, multi-agent systems with LangChain and FastAPI
+- 🎓 **Education:** Postgraduate in Data Science and Analytics (FIAP) · Bachelor in Mathematics (UNINOVE)
 - 🗣️ **Languages:** Portuguese (native) · **fluent English**, presenting results in English
 
 ---
